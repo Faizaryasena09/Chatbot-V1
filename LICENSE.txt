@@ -1,0 +1,12 @@
+
+Chatbot-V1 Usage License
+
+Copyright (c) 2025 Arya
+
+Permission is hereby granted to any person to use, copy, modify, and distribute this software for any purpose, including commercial and non-commercial uses, provided that:
+
+1. Proper credit must be given. The name "Arya" as the original creator of Chatbot-V1 must be clearly acknowledged in documentation, product UI, or project descriptions.
+2. You may not claim authorship. You are strictly prohibited from claiming that you are the creator or original author of this software.
+3. This license must be included. Any distribution, in original or modified form, must include a copy of this license.
+
+This software is provided "as is", without warranty of any kind, express or implied. Use it at your own risk.
