@@ -1,0 +1,6 @@
+torch
+transformers
+scikit-learn
+Sastrawi
+datasets
+tensorflow

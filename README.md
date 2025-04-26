@@ -19,7 +19,7 @@ Chatbot-V1 adalah chatbot cerdas berbasis Python yang mampu mendeteksi salam, em
 ## 🚀 Cara Menjalankan
 
 1. Clone repository ini
-2. Pastikan environment Python terpasang dengan dependensi yang benar
+2. Pastikan environment Python terpasang dengan dependensi dari requirements.txt
 3. Jalankan script utama `chatbot.py`
 
 ```bash
